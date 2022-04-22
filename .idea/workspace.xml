@@ -9,10 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51456348-3bac-4fce-b43d-cb2ef9058330" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/helloworld/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tobe-a-Goer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tobe-a-Goer.iml" afterDir="false" />
+    <list default="true" id="51456348-3bac-4fce-b43d-cb2ef9058330" name="默认变更列表" comment="Update hello.go">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/helloworld/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld/hello.go" afterDir="false" />
     </list>
@@ -38,6 +35,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
@@ -49,7 +47,7 @@
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../projects" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,5 +63,29 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Update hello.go" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update hello.go" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="Project SDK" value="https://mirrors.aliyun.com/goproxy/" />
+      </map>
+    </environment>
   </component>
 </project>
